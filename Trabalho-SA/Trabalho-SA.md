@@ -1,7 +1,7 @@
 # Situação de Aprendizagem
 
 🔗 **Protótipo e telas do projeto:**
-https://canva.link/1u861tHfbb0dl0w
+https://canva.link/1u861thfbb0dlow
 
 Este link contém o protótipo desenvolvido no Canva, apresentando as telas,
 a estrutura de navegação que serão utilizados como referência para o desenvolvimento do projeto.
