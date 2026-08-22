@@ -13,3 +13,11 @@ a estrutura de navegação que serão utilizados como referência para o desenvo
 https://canva.link/4jpicoophzmlg65
 
 Aqui mostramos quem está envolvido no projeto e como cada pessoa ou grupo se relaciona com ele.
+
+
+🔗 **Mapa de Navegabilidade:**
+
+https://docs.google.com/presentation/d/1ZCFQ9QYfMRKomaVCG2pvoZDJ7u9vqQiPBwI2_xzM-uk/edit?slide=id.p#slide=id.p
+
+Representação do fluxo de navegação do sistema, mostrando a conexão entre as telas e o 
+caminho percorrido pelo usuário para acessar suas principais funcionalidades.
